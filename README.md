@@ -107,6 +107,7 @@
 |[ContainIQ](https://www.containiq.com/) | Monitor Kubernetes metrics, logs, events, & traces |
 |[Komodor](https://komodor.com/) | Automate K8s Troubleshooting |
 |[WasmEdge](https://wasmedge.org/) | Bring the cloud-native and serverless application paradigms to Edge Computing |
+|[Ship.io](https://shipa.io/) | Application as a code dashboard solution |
 | | |
 
 **API Solutions**
